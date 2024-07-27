@@ -17,7 +17,6 @@
 
   $book_a_table = new PHP_Email_Form;
   $book_a_table->ajax = true;
-  
   $book_a_table->to = $receiving_email_address;
   $book_a_table->from_name = $_POST['name'];
   $book_a_table->from_email = $_POST['email'];
