@@ -240,6 +240,16 @@ h6 {
   line-height: 0px;
   font-family: var(--logo-font);
 }
+#home_logo ,#home_logo_span{
+  font-size: 40px;
+  color: var(--logo-color);
+  line-height: 0px;
+  font-family: var(--logo-font);
+}
+#home_logo_span{
+  font-size: 40px;
+  color: var(--dot-color);
+}
 
 .header {
   color: var(--default-color);
