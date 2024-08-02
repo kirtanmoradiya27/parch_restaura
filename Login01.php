@@ -39,7 +39,7 @@
   <header id="header" class="header d-flex align-items-center sticky-top">
     <div class="container position-relative d-flex align-items-center justify-content-between">
 
-      <a href="index.html" class="logo d-flex align-items-center me-auto me-xl-0">
+      <a href="index.php" class="logo d-flex align-items-center me-auto me-xl-0">
         <!-- Uncomment the line below if you also wish to use an image logo -->
         <!-- <embed src="assets\img\2jHtXwlb1v39frF41WvMEHMRF22.svg" class="img-fluid"/> -->
         <!-- <img src="assets/img/logo.jpg" alt="" class="img-fluid"> -->
@@ -80,7 +80,7 @@
       <div class="">
         <!-- <a class="btn-getstarted" href="sign01.html">Sign Up</a> -->
         <!-- <a class="btn-getstarted" href="Login01.html">Login</a> -->
-        <a class="btn-getstarted" href="index.html#book-a-table">Book a Table</a>
+        <a class="btn-getstarted" href="index.php#book-a-table">Book a Table</a>
       </div>
 
 
@@ -151,7 +151,7 @@
                   </div>
                   <div class="col-12">
                     <div class="d-grid">
-                      <button class="btn btn-primary btn-lg" type="submit" href="index.html">Login</button>
+                      <button class="btn btn-primary btn-lg" type="submit" href="index.php">Login</button>
                     </div>
                   </div>
                 </div>

@@ -33,7 +33,7 @@
     <!-- ======= Header ======= -->
     <header id="header" class="header d-flex align-items-center sticky-top">
         <div class="container position-relative d-flex align-items-center justify-content-between">
-            <a href="index.html" class="logo d-flex align-items-center me-auto me-xl-0">
+            <a href="index.php" class="logo d-flex align-items-center me-auto me-xl-0">
                 <h1 class="sitename">Perch</h1>
                 <span>.</span>
             </a>
