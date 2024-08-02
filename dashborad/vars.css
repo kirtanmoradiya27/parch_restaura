@@ -1,0 +1,73 @@
+/* Figma Styles of your File */
+:root {
+  /* Colors */
+  --actions-extras-warning-error: #ec5a5a;
+  --actions-extras-light-bue-background: #eaf0f0;
+  --actions-extras-unactive-btn: #d9d9d9;
+  --actions-extras-unactive-text-color: #a9a9a9;
+  --actions-extras-light-gray-50: #fafafa;
+  --blue-dollar-blue-50: #ecf3f5;
+  --blue-dollar-blue-900: #060d0f;
+  --blue-dollar-blue-800: #0f2125;
+  --blue-dollar-blue-700: #1f424a;
+  --blue-dollar-blue-600: #2e636e;
+  --blue-blue: #3d8493;
+  --blue-dollar-blue-400: #649da9;
+  --blue-dollar-blue-300: #8bb5be;
+  --blue-dollar-blue-200: #b1ced4;
+  --blue-dollar-blue-100: #d8e6e9;
+  --salmon-dollar-salmon-900: #16100a;
+  --salmon-dollar-salmon-800: #362819;
+  --salmon-dollar-salmon-700: #6c5033;
+  --salmon-dollar-salmon-600: #a2774c;
+  --salmon-salmon: #d89f65;
+  --salmon-dollar-salmon-400: #e0b284;
+  --salmon-dollar-salmon-300: #e8c5a3;
+  --salmon-dollar-salmon-200: #efd9c1;
+  --salmon-dollar-salmon-100: #f7ece0;
+  --salmon-dollar-salmon-50: #fcf6f0;
+  --green-dollar-green-900: #060707;
+  --green-dollar-green-800: #0f1311;
+  --green-dollar-green-700: #1d2521;
+  --green-dollar-green-600: #2c3832;
+  --green-green: #4a5c2f;
+  --green-dollar-green-400: #616e68;
+  --green-dollar-green-300: #89928e;
+  --green-dollar-green-200: #b0b7b3;
+  --green-dollar-green-100: #d8dbd9;
+  --green-dollar-green-50: #eceded;
+
+  /* Fonts */
+  --titles-and-totals-font-family: Quicksand-SemiBold, sans-serif;
+  --titles-and-totals-font-size: 30px;
+  --titles-and-totals-line-height: normal;
+  --titles-and-totals-font-weight: 600;
+  --titles-and-totals-font-style: normal;
+  --paragraph-font-family: Quicksand-Regular, sans-serif;
+  --paragraph-font-size: 15px;
+  --paragraph-line-height: normal;
+  --paragraph-font-weight: 400;
+  --paragraph-font-style: normal;
+  --button-text-font-family: Quicksand-Medium, sans-serif;
+  --button-text-font-size: 16px;
+  --button-text-line-height: normal;
+  --button-text-font-weight: 500;
+  --button-text-font-style: normal;
+  --numbe-counter-font-family: Quicksand-SemiBold, sans-serif;
+  --numbe-counter-font-size: 35px;
+  --numbe-counter-line-height: normal;
+  --numbe-counter-font-weight: 600;
+  --numbe-counter-font-style: normal;
+  --subtitles-font-family: Quicksand-Medium, sans-serif;
+  --subtitles-font-size: 15px;
+  --subtitles-line-height: normal;
+  --subtitles-font-weight: 500;
+  --subtitles-font-style: normal;
+  --number-highlight-font-family: Quicksand-Medium, sans-serif;
+  --number-highlight-font-size: 23px;
+  --number-highlight-line-height: normal;
+  --number-highlight-font-weight: 500;
+  --number-highlight-font-style: normal;
+
+  /* Effects */
+}
