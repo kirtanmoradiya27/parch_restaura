@@ -86,8 +86,7 @@
 
     </div>
   </header>
-  <section class="py-3 py-md-5 py-xl-8 "
-    style="background-image:url('/assets/img/loginpage/myimg/fuzzy-restaurant-with-dark-furniture_1203-1613.jpg');background-repeat: no-repeat;background-size: cover;width: auto;height: auto;">
+  <section class="py-3 py-md-5 py-xl-8">
     <div class="container">
       <div class="row gy-4 align-items-center">
         <div class="col-12 col-md-6 col-xl-7">
